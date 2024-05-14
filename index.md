@@ -1,6 +1,6 @@
 # Ivan Sangco's Portfolio
 
-I'm a computer science major at CSU Fullerton and I expect to grade in 2 more years.
+I'm a computer science major at CSU Fullerton and I expect to graduate in the year 2026.
 
 ## Favorite CPSC 120L Labs
 Lab 1
